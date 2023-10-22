@@ -4,9 +4,9 @@ Desafio consiste em criar uma Api que tenha autorização e autenticação e um 
 
 ## Índice
 - <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a>
-- <a href="#funcionalidades">Funcionalidades do projeto</a>
-- <a href="#rodar">Como rodar este projeto?</a>
-- <a href="#img">Imagens endpoints</a>
+- <a href="#funcionalidades-do-projeto">Funcionalidades do projeto</a>
+- <a href="#como-rodar-este-projeto">Como rodar este projeto?</a>
+- <a href="#imagens-endpoints">Imagens endpoints</a>
 
 ## Funcionalidades do projeto
 - [x] Cadastro de usuário
