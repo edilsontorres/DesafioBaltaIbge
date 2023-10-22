@@ -43,7 +43,7 @@ $ dotnet run
 ## Demonstração
 - [Link demonstração](https://desafioibge.azurewebsites.net/swagger/index.html)
 
-## Imagens de alguns endpoints
+## Imagens endpoints
 ![Swagger](/assets/img1.PNG)
 ![GetAll](/assets/img2.PNG)
 ![GetCity](/assets/img3.PNG)
