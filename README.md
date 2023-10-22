@@ -3,10 +3,10 @@
 Desafio consiste em criar uma Api que tenha autorização e autenticação e um CRUD para o banco de dados base.
 
 ## Índice
-- <a href="#-tecnologias-utilizadas">Tecnologias utilizadas</a>
-- <a href="#-funcionalidades">Funcionalidades do projeto</a>
+- <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a>
+- <a href="#funcionalidades">Funcionalidades do projeto</a>
 - <a href="#rodar">Como rodar este projeto?</a>
-- <a href="#-img">Imagens endpoints</a>
+- <a href="#img">Imagens endpoints</a>
 
 ## Funcionalidades do projeto
 - [x] Cadastro de usuário
